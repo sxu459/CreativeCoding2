@@ -7,7 +7,7 @@ public class CubeScript : MonoBehaviour {
 	public float rotateSpeed = 1.0f;
 	public Vector3 spinSpeed = Vector3.zero;
 
-	 Vector3 spinAxis = new Vector3(0,1,0);
+	 Vector3 spinAxis = new Vector3(0,2,0);
 
 	// Use this for initialization
 	void Start () {
